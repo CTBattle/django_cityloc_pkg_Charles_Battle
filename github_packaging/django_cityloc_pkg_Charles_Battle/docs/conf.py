@@ -4,14 +4,14 @@
 # list see the documentation:
 # https://www.sphinx-doc.org/en/master/usage/configuration.html
 
-# -- Path setup --------------------------------------------------------------
+#    Path setup
 
 import os
 import sys
 sys.path.insert(0, os.path.abspath('..'))  # so autodoc can find your package
 
 
-# -- Project information -----------------------------------------------------
+#  Project information 
 
 project = 'django_cityloc_pkg'
 copyright = '2023, Charles Battle'
@@ -21,7 +21,8 @@ author = 'Charles Battle'
 release = '0.0.1'
 
 
-# -- General configuration ---------------------------------------------------
+#    General configuration 
+
 
 extensions = [
     'sphinx.ext.autodoc',          # auto-generate docs from docstrings
@@ -51,7 +52,7 @@ intersphinx_mapping = {
 }
 
 
-# -- Options for HTML output -------------------------------------------------
+#    Options for HTML output 
 
 html_theme = 'alabaster'
 html_static_path = ['_static']

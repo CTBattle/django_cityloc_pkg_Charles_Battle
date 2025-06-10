@@ -1,25 +1,15 @@
 .. django_cityloc_pkg documentation master file, created by
-<<<<<<< HEAD
-   sphinx-quickstart on Mon Jun  9 23:34:36 2025.
-=======
    sphinx-quickstart on Mon Jun  9 12:12:20 2025.
->>>>>>> 89d779b26d9173bf16edf55fea1ff687ce5e55b3
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
 Welcome to django_cityloc_pkg's documentation!
 ==============================================
 
-<<<<<<< HEAD
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-=======
 .. automodule::citylocations
    :members:
    :undoc-members:
    :show-inheritance:
->>>>>>> 89d779b26d9173bf16edf55fea1ff687ce5e55b3
 
 
 

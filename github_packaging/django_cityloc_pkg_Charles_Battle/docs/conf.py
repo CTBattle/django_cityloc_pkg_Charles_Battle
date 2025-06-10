@@ -14,7 +14,7 @@ sys.path.insert(0, os.path.abspath('..'))  # so autodoc can find your package
 # -- Project information -----------------------------------------------------
 
 project = 'django_cityloc_pkg'
-copyright = '2025, Charles Battle'
+copyright = '2023, Charles Battle'
 author = 'Charles Battle'
 
 # The full version, including alpha/beta/rc tags

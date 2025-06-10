@@ -6,10 +6,22 @@
 Welcome to django_cityloc_pkg's documentation!
 ==============================================
 
-.. automodule::django_cityloc_pkg
-   :members:
-   
+Contents:
+---------
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   modules
+
+Module Reference
+================
+
+.. automodule:: django_cityloc_pkg
+   :members:
+   :undoc-members:
+   :show-inheritance:
 
 
 Indices and tables
